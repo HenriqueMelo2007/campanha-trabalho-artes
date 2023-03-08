@@ -61,10 +61,16 @@ header {
 }
 
 .topico {
-  text-shadow: 10px 10px 60px var(--black);
+  text-shadow: 10px 10px 70px var(--black);
   color: var(--blue-9);
   font-size: 4.5rem;
   margin: 0 0 20px 30px;
+}
+
+.sub-topico {
+  color: var(--blue-9);
+  font-size: 2.5rem;
+  margin: 0 0 20px 50px;
 }
 
 p {
